@@ -1,0 +1,8 @@
+{
+    "typescript.tsdk": "node_modules\\typescript\\lib",
+    "workbench.colorCustomizations": {
+        "[Shades of Purple]": {
+            "sideBar.background": "#111122"
+        }
+    }
+}
